@@ -85,6 +85,30 @@
   ],
   "monthly": [
     {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "points": 2,
+      "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "Salvin-Sebastian",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "points": 1,
+      "displayname": "Salvin Sebastian"
+    },
+    {
+      "username": "RoseMary007",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "points": 1,
+      "displayname": "Rose Mary Joe"
+    },
+    {
       "username": "KAMAL-KRISHNA-00",
       "commits": 0,
       "prs_opened": 1,
@@ -139,30 +163,6 @@
       "prs_merged": 0,
       "points": 0,
       "displayname": " Chaitanya Liz"
-    },
-    {
-      "username": "athul-2003",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "H ATHULKRISHNAN "
-    },
-    {
-      "username": "Alan0602",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Alan K Anil"
-    },
-    {
-      "username": "umavm",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Uma V Menon "
     }
   ]
 }
