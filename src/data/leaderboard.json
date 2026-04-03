@@ -44,10 +44,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 844,
+      "commits": 859,
       "prs_opened": 230,
       "prs_merged": 224,
-      "points": 1298,
+      "points": 1313,
       "displayname": "Awindsr"
     },
     {
@@ -85,20 +85,52 @@
   ],
   "monthly": [
     {
+      "username": "DevWithPranav",
+      "commits": 21,
+      "prs_opened": 11,
+      "prs_merged": 11,
+      "points": 43,
+      "displayname": "Pranav P"
+    },
+    {
+      "username": "Amith-Abey-Stephen",
+      "commits": 11,
+      "prs_opened": 5,
+      "prs_merged": 4,
+      "points": 20,
+      "displayname": "Amith Abey Stephen"
+    },
+    {
       "username": "alvin-dennis",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "points": 2,
+      "commits": 2,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "points": 6,
       "displayname": "Alvin Dennis"
     },
     {
       "username": "Salvin-Sebastian",
       "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 0,
+      "points": 4,
+      "displayname": "Salvin Sebastian"
+    },
+    {
+      "username": "awindsr",
+      "commits": 3,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 3,
+      "displayname": "Awindsr"
+    },
+    {
+      "username": "Nayadrika787",
+      "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "points": 1,
-      "displayname": "Salvin Sebastian"
+      "displayname": "Nayana_Sen"
     },
     {
       "username": "RoseMary007",
@@ -109,60 +141,28 @@
       "displayname": "Rose Mary Joe"
     },
     {
-      "username": "KAMAL-KRISHNA-00",
+      "username": "Vinayapriya",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "points": 1,
-      "displayname": "Kamal Krishna"
+      "displayname": "Vinayapriya  C C"
     },
     {
-      "username": "AngelinaJolly2005",
+      "username": "arya-884884",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "points": 1,
-      "displayname": "Angelina Jolly"
+      "displayname": "ARYA NANDA"
     },
     {
-      "username": "rejahrehim",
+      "username": "harinandanamohanan6-cloud",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
-      "points": 0,
-      "displayname": "Rejah Rehim "
-    },
-    {
-      "username": "Angelrose19",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Angel Rose"
-    },
-    {
-      "username": "IRJ2",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Irene Rose Johnson"
-    },
-    {
-      "username": "vishakh-abhayan",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Vishakh Abhayan"
-    },
-    {
-      "username": "CLiz17",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": " Chaitanya Liz"
+      "points": 1,
+      "displayname": "harinandanamohanan6-cloud"
     }
   ]
 }
