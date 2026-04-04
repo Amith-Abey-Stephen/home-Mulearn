@@ -86,10 +86,10 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 21,
-      "prs_opened": 11,
-      "prs_merged": 11,
-      "points": 43,
+      "commits": 29,
+      "prs_opened": 17,
+      "prs_merged": 17,
+      "points": 63,
       "displayname": "Pranav P"
     },
     {
@@ -103,9 +103,9 @@
     {
       "username": "alvin-dennis",
       "commits": 2,
-      "prs_opened": 2,
+      "prs_opened": 3,
       "prs_merged": 2,
-      "points": 6,
+      "points": 7,
       "displayname": "Alvin Dennis"
     },
     {
@@ -125,44 +125,44 @@
       "displayname": "Awindsr"
     },
     {
+      "username": "shaderone",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "points": 2,
+      "displayname": "Sharon Shaji"
+    },
+    {
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "points": 1,
+      "displayname": "Harshil P"
+    },
+    {
+      "username": "sinan404",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "points": 1,
+      "displayname": "SINAN M"
+    },
+    {
+      "username": "chintujolly",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "points": 1,
+      "displayname": "Chintu Jolly"
+    },
+    {
       "username": "Nayadrika787",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "points": 1,
       "displayname": "Nayana_Sen"
-    },
-    {
-      "username": "RoseMary007",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "points": 1,
-      "displayname": "Rose Mary Joe"
-    },
-    {
-      "username": "Vinayapriya",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "points": 1,
-      "displayname": "Vinayapriya  C C"
-    },
-    {
-      "username": "arya-884884",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "points": 1,
-      "displayname": "ARYA NANDA"
-    },
-    {
-      "username": "harinandanamohanan6-cloud",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "points": 1,
-      "displayname": "harinandanamohanan6-cloud"
     }
   ]
 }
