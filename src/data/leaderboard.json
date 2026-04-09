@@ -44,10 +44,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 869,
+      "commits": 870,
       "prs_opened": 230,
       "prs_merged": 224,
-      "points": 1323,
+      "points": 1324,
       "displayname": "Awindsr"
     },
     {
@@ -93,6 +93,14 @@
       "displayname": "Pranav P"
     },
     {
+      "username": "alvin-dennis",
+      "commits": 13,
+      "prs_opened": 6,
+      "prs_merged": 6,
+      "points": 25,
+      "displayname": "Alvin Dennis"
+    },
+    {
       "username": "Amith-Abey-Stephen",
       "commits": 11,
       "prs_opened": 7,
@@ -101,27 +109,19 @@
       "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "alvin-dennis",
-      "commits": 9,
-      "prs_opened": 6,
-      "prs_merged": 5,
-      "points": 20,
-      "displayname": "Alvin Dennis"
-    },
-    {
       "username": "erzer12",
       "commits": 12,
-      "prs_opened": 3,
+      "prs_opened": 4,
       "prs_merged": 3,
-      "points": 18,
+      "points": 19,
       "displayname": "Harshil P"
     },
     {
       "username": "awindsr",
-      "commits": 13,
+      "commits": 14,
       "prs_opened": 0,
       "prs_merged": 0,
-      "points": 13,
+      "points": 14,
       "displayname": "Awindsr"
     },
     {
@@ -157,12 +157,12 @@
       "displayname": "Vinayapriya  C C"
     },
     {
-      "username": "shaderone",
+      "username": "GOKUL-P-R",
       "commits": 0,
       "prs_opened": 2,
       "prs_merged": 0,
       "points": 2,
-      "displayname": "Sharon Shaji"
+      "displayname": "GOKUL-P-R"
     }
   ]
 }
