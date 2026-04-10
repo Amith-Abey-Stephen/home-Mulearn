@@ -93,11 +93,19 @@
       "displayname": "Pranav P"
     },
     {
+      "username": "erzer12",
+      "commits": 21,
+      "prs_opened": 4,
+      "prs_merged": 4,
+      "points": 29,
+      "displayname": "Harshil P"
+    },
+    {
       "username": "alvin-dennis",
-      "commits": 13,
+      "commits": 15,
       "prs_opened": 6,
       "prs_merged": 6,
-      "points": 25,
+      "points": 27,
       "displayname": "Alvin Dennis"
     },
     {
@@ -107,14 +115,6 @@
       "prs_merged": 4,
       "points": 22,
       "displayname": "Amith Abey Stephen"
-    },
-    {
-      "username": "erzer12",
-      "commits": 12,
-      "prs_opened": 4,
-      "prs_merged": 3,
-      "points": 19,
-      "displayname": "Harshil P"
     },
     {
       "username": "awindsr",
@@ -141,6 +141,14 @@
       "displayname": "Nayana_Sen"
     },
     {
+      "username": "Devika123098",
+      "commits": 2,
+      "prs_opened": 2,
+      "prs_merged": 1,
+      "points": 5,
+      "displayname": "Devika Dileep"
+    },
+    {
       "username": "Devananda2027",
       "commits": 2,
       "prs_opened": 0,
@@ -155,14 +163,6 @@
       "prs_merged": 0,
       "points": 2,
       "displayname": "Vinayapriya  C C"
-    },
-    {
-      "username": "GOKUL-P-R",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "points": 2,
-      "displayname": "GOKUL-P-R"
     }
   ]
 }
