@@ -86,27 +86,27 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 43,
-      "prs_opened": 30,
-      "prs_merged": 30,
-      "points": 103,
+      "commits": 47,
+      "prs_opened": 34,
+      "prs_merged": 34,
+      "points": 115,
       "displayname": "Pranav P"
     },
     {
-      "username": "erzer12",
-      "commits": 21,
-      "prs_opened": 4,
-      "prs_merged": 4,
-      "points": 29,
-      "displayname": "Harshil P"
+      "username": "alvin-dennis",
+      "commits": 24,
+      "prs_opened": 8,
+      "prs_merged": 8,
+      "points": 40,
+      "displayname": "Alvin Dennis"
     },
     {
-      "username": "alvin-dennis",
-      "commits": 15,
+      "username": "erzer12",
+      "commits": 22,
       "prs_opened": 6,
-      "prs_merged": 6,
-      "points": 27,
-      "displayname": "Alvin Dennis"
+      "prs_merged": 5,
+      "points": 33,
+      "displayname": "Harshil P"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -127,9 +127,9 @@
     {
       "username": "Salvin-Sebastian",
       "commits": 4,
-      "prs_opened": 5,
+      "prs_opened": 6,
       "prs_merged": 1,
-      "points": 10,
+      "points": 11,
       "displayname": "Salvin Sebastian"
     },
     {
@@ -149,19 +149,19 @@
       "displayname": "Devika Dileep"
     },
     {
-      "username": "Devananda2027",
-      "commits": 2,
-      "prs_opened": 0,
+      "username": "Sidharth-sk-809",
+      "commits": 0,
+      "prs_opened": 3,
       "prs_merged": 0,
-      "points": 2,
-      "displayname": "devanandasj"
+      "points": 3,
+      "displayname": "Sidharth s kumar"
     },
     {
       "username": "Vinayapriya",
       "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 3,
       "prs_merged": 0,
-      "points": 2,
+      "points": 3,
       "displayname": "Vinayapriya  C C"
     }
   ]
