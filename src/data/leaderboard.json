@@ -36,10 +36,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 893,
-      "prs_opened": 235,
-      "prs_merged": 229,
-      "points": 1357,
+      "commits": 896,
+      "prs_opened": 236,
+      "prs_merged": 230,
+      "points": 1362,
       "displayname": "Awindsr"
     },
     {
@@ -86,11 +86,19 @@
   "monthly": [
     {
       "username": "alvin-dennis",
-      "commits": 68,
-      "prs_opened": 20,
-      "prs_merged": 20,
-      "points": 108,
+      "commits": 73,
+      "prs_opened": 22,
+      "prs_merged": 22,
+      "points": 117,
       "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "awindsr",
+      "commits": 25,
+      "prs_opened": 6,
+      "prs_merged": 6,
+      "points": 37,
+      "displayname": "Awindsr"
     },
     {
       "username": "DevWithPranav",
@@ -101,20 +109,28 @@
       "displayname": "Pranav P"
     },
     {
-      "username": "awindsr",
-      "commits": 22,
-      "prs_opened": 5,
-      "prs_merged": 5,
-      "points": 32,
-      "displayname": "Awindsr"
-    },
-    {
       "username": "Devika123098",
       "commits": 11,
       "prs_opened": 1,
       "prs_merged": 1,
       "points": 13,
       "displayname": "Devika Dileep"
+    },
+    {
+      "username": "erzer12",
+      "commits": 5,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "points": 7,
+      "displayname": "Harshil P"
+    },
+    {
+      "username": "sachin-raj-m",
+      "commits": 6,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 6,
+      "displayname": "Sachin Raj"
     },
     {
       "username": "febin-d",
@@ -133,14 +149,6 @@
       "displayname": "Adithya S Pai"
     },
     {
-      "username": "sachin-raj-m",
-      "commits": 3,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 3,
-      "displayname": "Sachin Raj"
-    },
-    {
       "username": "rejahrehim",
       "commits": 0,
       "prs_opened": 0,
@@ -155,14 +163,6 @@
       "prs_merged": 0,
       "points": 0,
       "displayname": "Angel Rose"
-    },
-    {
-      "username": "IRJ2",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 0,
-      "displayname": "Irene Rose Johnson"
     }
   ]
 }
