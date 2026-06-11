@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 971,
-      "prs_opened": 254,
-      "prs_merged": 248,
-      "points": 1473,
+      "commits": 978,
+      "prs_opened": 257,
+      "prs_merged": 251,
+      "points": 1486,
       "displayname": "Awindsr"
     },
     {
@@ -94,11 +94,19 @@
     },
     {
       "username": "awindsr",
-      "commits": 23,
-      "prs_opened": 6,
-      "prs_merged": 6,
-      "points": 35,
+      "commits": 30,
+      "prs_opened": 9,
+      "prs_merged": 9,
+      "points": 48,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "sachin-raj-m",
+      "commits": 27,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 27,
+      "displayname": "Sachin Raj"
     },
     {
       "username": "frizzycodes",
@@ -125,12 +133,28 @@
       "displayname": "Arya Shibu Dhanya"
     },
     {
+      "username": "Akshayvs-Tech",
+      "commits": 13,
+      "prs_opened": 2,
+      "prs_merged": 1,
+      "points": 16,
+      "displayname": "Akshay v s"
+    },
+    {
       "username": "erzer12",
       "commits": 9,
-      "prs_opened": 2,
+      "prs_opened": 3,
       "prs_merged": 2,
-      "points": 13,
+      "points": 14,
       "displayname": "Harshil P"
+    },
+    {
+      "username": "febin-d",
+      "commits": 4,
+      "prs_opened": 5,
+      "prs_merged": 3,
+      "points": 12,
+      "displayname": "Febin Daniel"
     },
     {
       "username": "GokulShaji2005",
@@ -139,30 +163,6 @@
       "prs_merged": 2,
       "points": 10,
       "displayname": "Gokul Shaji"
-    },
-    {
-      "username": "febin-d",
-      "commits": 2,
-      "prs_opened": 3,
-      "prs_merged": 2,
-      "points": 7,
-      "displayname": "Febin Daniel"
-    },
-    {
-      "username": "joshnajojo12",
-      "commits": 1,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "points": 3,
-      "displayname": "Joshna Jojo"
-    },
-    {
-      "username": "alvin-dennis",
-      "commits": 2,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 2,
-      "displayname": "Alvin Dennis"
     }
   ]
 }
