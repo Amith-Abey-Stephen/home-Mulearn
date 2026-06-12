@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 978,
+      "commits": 981,
       "prs_opened": 257,
       "prs_merged": 251,
-      "points": 1486,
+      "points": 1489,
       "displayname": "Awindsr"
     },
     {
@@ -86,19 +86,27 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 24,
-      "prs_opened": 15,
-      "prs_merged": 15,
-      "points": 54,
+      "commits": 36,
+      "prs_opened": 25,
+      "prs_merged": 25,
+      "points": 86,
       "displayname": "Pranav P"
     },
     {
       "username": "awindsr",
-      "commits": 30,
+      "commits": 33,
       "prs_opened": 9,
       "prs_merged": 9,
-      "points": 48,
+      "points": 51,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "vedhavk",
+      "commits": 28,
+      "prs_opened": 2,
+      "prs_merged": 1,
+      "points": 31,
+      "displayname": "Vedha"
     },
     {
       "username": "sachin-raj-m",
@@ -125,20 +133,20 @@
       "displayname": "Devika Dileep"
     },
     {
+      "username": "Akshayvs-Tech",
+      "commits": 13,
+      "prs_opened": 3,
+      "prs_merged": 1,
+      "points": 17,
+      "displayname": "Akshay v s"
+    },
+    {
       "username": "Arya3077",
       "commits": 14,
       "prs_opened": 1,
       "prs_merged": 1,
       "points": 16,
       "displayname": "Arya Shibu Dhanya"
-    },
-    {
-      "username": "Akshayvs-Tech",
-      "commits": 13,
-      "prs_opened": 2,
-      "prs_merged": 1,
-      "points": 16,
-      "displayname": "Akshay v s"
     },
     {
       "username": "erzer12",
@@ -150,19 +158,11 @@
     },
     {
       "username": "febin-d",
-      "commits": 4,
+      "commits": 5,
       "prs_opened": 5,
-      "prs_merged": 3,
-      "points": 12,
+      "prs_merged": 4,
+      "points": 14,
       "displayname": "Febin Daniel"
-    },
-    {
-      "username": "GokulShaji2005",
-      "commits": 6,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "points": 10,
-      "displayname": "Gokul Shaji"
     }
   ]
 }
