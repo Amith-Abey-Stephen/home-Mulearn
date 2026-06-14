@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 982,
+      "commits": 983,
       "prs_opened": 257,
       "prs_merged": 251,
-      "points": 1490,
+      "points": 1491,
       "displayname": "Awindsr"
     },
     {
@@ -86,19 +86,27 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 36,
-      "prs_opened": 25,
-      "prs_merged": 25,
-      "points": 86,
+      "commits": 45,
+      "prs_opened": 30,
+      "prs_merged": 30,
+      "points": 105,
       "displayname": "Pranav P"
     },
     {
       "username": "awindsr",
-      "commits": 34,
+      "commits": 35,
       "prs_opened": 9,
       "prs_merged": 9,
-      "points": 52,
+      "points": 53,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "Akshayvs-Tech",
+      "commits": 25,
+      "prs_opened": 5,
+      "prs_merged": 3,
+      "points": 33,
+      "displayname": "Akshay v s"
     },
     {
       "username": "vedhavk",
@@ -119,9 +127,9 @@
     {
       "username": "frizzycodes",
       "commits": 11,
-      "prs_opened": 7,
+      "prs_opened": 8,
       "prs_merged": 5,
-      "points": 23,
+      "points": 24,
       "displayname": "Adithya S Pai"
     },
     {
@@ -133,12 +141,12 @@
       "displayname": "Devika Dileep"
     },
     {
-      "username": "Akshayvs-Tech",
-      "commits": 13,
-      "prs_opened": 3,
-      "prs_merged": 1,
-      "points": 17,
-      "displayname": "Akshay v s"
+      "username": "febin-d",
+      "commits": 7,
+      "prs_opened": 6,
+      "prs_merged": 5,
+      "points": 18,
+      "displayname": "Febin Daniel"
     },
     {
       "username": "Arya3077",
@@ -155,14 +163,6 @@
       "prs_merged": 2,
       "points": 14,
       "displayname": "Harshil P"
-    },
-    {
-      "username": "febin-d",
-      "commits": 5,
-      "prs_opened": 5,
-      "prs_merged": 4,
-      "points": 14,
-      "displayname": "Febin Daniel"
     }
   ]
 }
