@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 987,
+      "commits": 988,
       "prs_opened": 257,
       "prs_merged": 251,
-      "points": 1495,
+      "points": 1496,
       "displayname": "Awindsr"
     },
     {
@@ -86,58 +86,58 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 47,
-      "prs_opened": 31,
-      "prs_merged": 31,
-      "points": 109,
+      "commits": 59,
+      "prs_opened": 40,
+      "prs_merged": 40,
+      "points": 139,
       "displayname": "Pranav P"
     },
     {
-      "username": "awindsr",
-      "commits": 39,
-      "prs_opened": 9,
-      "prs_merged": 9,
-      "points": 57,
-      "displayname": "Awindsr"
-    },
-    {
-      "username": "Devika123098",
-      "commits": 32,
-      "prs_opened": 3,
-      "prs_merged": 3,
-      "points": 38,
-      "displayname": "Devika Dileep"
-    },
-    {
-      "username": "Akshayvs-Tech",
-      "commits": 27,
-      "prs_opened": 6,
-      "prs_merged": 4,
-      "points": 37,
-      "displayname": "Akshay v s"
-    },
-    {
       "username": "alvin-dennis",
-      "commits": 28,
-      "prs_opened": 4,
-      "prs_merged": 4,
-      "points": 36,
+      "commits": 45,
+      "prs_opened": 7,
+      "prs_merged": 7,
+      "points": 59,
       "displayname": "Alvin Dennis"
     },
     {
+      "username": "awindsr",
+      "commits": 40,
+      "prs_opened": 9,
+      "prs_merged": 9,
+      "points": 58,
+      "displayname": "Awindsr"
+    },
+    {
+      "username": "Akshayvs-Tech",
+      "commits": 34,
+      "prs_opened": 8,
+      "prs_merged": 6,
+      "points": 48,
+      "displayname": "Akshay v s"
+    },
+    {
       "username": "erzer12",
-      "commits": 29,
-      "prs_opened": 4,
-      "prs_merged": 3,
-      "points": 36,
+      "commits": 37,
+      "prs_opened": 5,
+      "prs_merged": 5,
+      "points": 47,
       "displayname": "Harshil P"
     },
     {
+      "username": "Devika123098",
+      "commits": 34,
+      "prs_opened": 4,
+      "prs_merged": 4,
+      "points": 42,
+      "displayname": "Devika Dileep"
+    },
+    {
       "username": "vedhavk",
-      "commits": 28,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "points": 32,
+      "commits": 33,
+      "prs_opened": 3,
+      "prs_merged": 3,
+      "points": 39,
       "displayname": "Vedha"
     },
     {
@@ -157,12 +157,12 @@
       "displayname": "Sachin Raj"
     },
     {
-      "username": "febin-d",
-      "commits": 7,
-      "prs_opened": 6,
-      "prs_merged": 5,
+      "username": "Arya3077",
+      "commits": 14,
+      "prs_opened": 3,
+      "prs_merged": 1,
       "points": 18,
-      "displayname": "Febin Daniel"
+      "displayname": "Arya Shibu Dhanya"
     }
   ]
 }
