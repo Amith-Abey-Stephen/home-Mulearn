@@ -86,18 +86,18 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 59,
-      "prs_opened": 40,
-      "prs_merged": 40,
-      "points": 139,
+      "commits": 78,
+      "prs_opened": 56,
+      "prs_merged": 56,
+      "points": 190,
       "displayname": "Pranav P"
     },
     {
       "username": "alvin-dennis",
-      "commits": 45,
-      "prs_opened": 7,
-      "prs_merged": 7,
-      "points": 59,
+      "commits": 53,
+      "prs_opened": 9,
+      "prs_merged": 9,
+      "points": 71,
       "displayname": "Alvin Dennis"
     },
     {
@@ -109,6 +109,22 @@
       "displayname": "Awindsr"
     },
     {
+      "username": "erzer12",
+      "commits": 39,
+      "prs_opened": 6,
+      "prs_merged": 6,
+      "points": 51,
+      "displayname": "Harshil P"
+    },
+    {
+      "username": "Devika123098",
+      "commits": 39,
+      "prs_opened": 5,
+      "prs_merged": 5,
+      "points": 49,
+      "displayname": "Devika Dileep"
+    },
+    {
       "username": "Akshayvs-Tech",
       "commits": 34,
       "prs_opened": 8,
@@ -117,28 +133,20 @@
       "displayname": "Akshay v s"
     },
     {
-      "username": "erzer12",
+      "username": "vedhavk",
       "commits": 37,
       "prs_opened": 5,
       "prs_merged": 5,
       "points": 47,
-      "displayname": "Harshil P"
-    },
-    {
-      "username": "Devika123098",
-      "commits": 34,
-      "prs_opened": 4,
-      "prs_merged": 4,
-      "points": 42,
-      "displayname": "Devika Dileep"
-    },
-    {
-      "username": "vedhavk",
-      "commits": 33,
-      "prs_opened": 3,
-      "prs_merged": 3,
-      "points": 39,
       "displayname": "Vedha"
+    },
+    {
+      "username": "sachin-raj-m",
+      "commits": 34,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 34,
+      "displayname": "Sachin Raj"
     },
     {
       "username": "frizzycodes",
@@ -147,14 +155,6 @@
       "prs_merged": 7,
       "points": 29,
       "displayname": "Adithya S Pai"
-    },
-    {
-      "username": "sachin-raj-m",
-      "commits": 27,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 27,
-      "displayname": "Sachin Raj"
     },
     {
       "username": "Arya3077",
