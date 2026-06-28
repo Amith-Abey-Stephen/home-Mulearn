@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1045,
-      "prs_opened": 272,
-      "prs_merged": 264,
-      "points": 1581,
+      "commits": 1048,
+      "prs_opened": 276,
+      "prs_merged": 268,
+      "points": 1592,
       "displayname": "Awindsr"
     },
     {
@@ -59,20 +59,20 @@
       "displayname": "Bijo Mathew Jose"
     },
     {
+      "username": "alvin-dennis",
+      "commits": 793,
+      "prs_opened": 163,
+      "prs_merged": 151,
+      "points": 1107,
+      "displayname": "Alvin Dennis"
+    },
+    {
       "username": "vishakh-abhayan",
       "commits": 957,
       "prs_opened": 76,
       "prs_merged": 66,
       "points": 1099,
       "displayname": "Vishakh Abhayan"
-    },
-    {
-      "username": "alvin-dennis",
-      "commits": 784,
-      "prs_opened": 162,
-      "prs_merged": 150,
-      "points": 1096,
-      "displayname": "Alvin Dennis"
     },
     {
       "username": "jelanmathewjames",
@@ -86,26 +86,26 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 148,
-      "prs_opened": 109,
-      "prs_merged": 108,
-      "points": 365,
+      "commits": 156,
+      "prs_opened": 114,
+      "prs_merged": 113,
+      "points": 383,
       "displayname": "Pranav P"
     },
     {
       "username": "alvin-dennis",
-      "commits": 137,
-      "prs_opened": 26,
-      "prs_merged": 25,
-      "points": 188,
+      "commits": 146,
+      "prs_opened": 27,
+      "prs_merged": 26,
+      "points": 199,
       "displayname": "Alvin Dennis"
     },
     {
       "username": "awindsr",
-      "commits": 97,
-      "prs_opened": 24,
-      "prs_merged": 22,
-      "points": 143,
+      "commits": 100,
+      "prs_opened": 28,
+      "prs_merged": 26,
+      "points": 154,
       "displayname": "Awindsr"
     },
     {
@@ -135,17 +135,17 @@
     {
       "username": "Devika123098",
       "commits": 61,
-      "prs_opened": 10,
+      "prs_opened": 11,
       "prs_merged": 10,
-      "points": 81,
+      "points": 82,
       "displayname": "Devika Dileep"
     },
     {
       "username": "sachin-raj-m",
-      "commits": 66,
+      "commits": 69,
       "prs_opened": 0,
       "prs_merged": 0,
-      "points": 66,
+      "points": 69,
       "displayname": "Sachin Raj"
     },
     {
