@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1086,
-      "prs_opened": 287,
-      "prs_merged": 278,
-      "points": 1651,
+      "commits": 1091,
+      "prs_opened": 289,
+      "prs_merged": 281,
+      "points": 1661,
       "displayname": "Awindsr"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 829,
-      "prs_opened": 175,
-      "prs_merged": 161,
-      "points": 1165,
+      "commits": 834,
+      "prs_opened": 177,
+      "prs_merged": 163,
+      "points": 1174,
       "displayname": "Alvin Dennis"
     },
     {
@@ -94,27 +94,35 @@
     },
     {
       "username": "awindsr",
-      "commits": 21,
-      "prs_opened": 7,
-      "prs_merged": 6,
-      "points": 34,
+      "commits": 26,
+      "prs_opened": 9,
+      "prs_merged": 9,
+      "points": 44,
       "displayname": "Awindsr"
     },
     {
       "username": "alvin-dennis",
-      "commits": 10,
-      "prs_opened": 8,
-      "prs_merged": 6,
-      "points": 24,
+      "commits": 15,
+      "prs_opened": 10,
+      "prs_merged": 8,
+      "points": 33,
       "displayname": "Alvin Dennis"
     },
     {
       "username": "GokulShaji2005",
-      "commits": 6,
-      "prs_opened": 6,
-      "prs_merged": 1,
-      "points": 13,
+      "commits": 7,
+      "prs_opened": 7,
+      "prs_merged": 2,
+      "points": 16,
       "displayname": "Gokul Shaji"
+    },
+    {
+      "username": "vedhavk",
+      "commits": 13,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "points": 15,
+      "displayname": "Vedha"
     },
     {
       "username": "sachin-raj-m",
@@ -125,20 +133,20 @@
       "displayname": "Sachin Raj"
     },
     {
+      "username": "AdhwaithAS",
+      "commits": 7,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 7,
+      "displayname": "Adhwaith A S"
+    },
+    {
       "username": "irfanfarisf",
       "commits": 1,
       "prs_opened": 4,
       "prs_merged": 1,
       "points": 6,
       "displayname": "Irfan Faris F "
-    },
-    {
-      "username": "AdhwaithAS",
-      "commits": 5,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 5,
-      "displayname": "Adhwaith A S"
     },
     {
       "username": "diyakrishnah",
@@ -155,14 +163,6 @@
       "prs_merged": 1,
       "points": 5,
       "displayname": "Lijo Thomas"
-    },
-    {
-      "username": "princeshejivarghese",
-      "commits": 1,
-      "prs_opened": 2,
-      "prs_merged": 1,
-      "points": 4,
-      "displayname": "Prince Sheji varghese"
     }
   ]
 }
