@@ -86,10 +86,10 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 32,
-      "prs_opened": 32,
-      "prs_merged": 30,
-      "points": 94,
+      "commits": 41,
+      "prs_opened": 34,
+      "prs_merged": 33,
+      "points": 108,
       "displayname": "Pranav P"
     },
     {
@@ -107,6 +107,14 @@
       "prs_merged": 8,
       "points": 33,
       "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "febin-d",
+      "commits": 17,
+      "prs_opened": 3,
+      "prs_merged": 3,
+      "points": 23,
+      "displayname": "Febin Daniel"
     },
     {
       "username": "GokulShaji2005",
@@ -134,35 +142,27 @@
     },
     {
       "username": "AdhwaithAS",
-      "commits": 7,
+      "commits": 8,
       "prs_opened": 0,
       "prs_merged": 0,
-      "points": 7,
+      "points": 8,
       "displayname": "Adhwaith A S"
     },
     {
-      "username": "irfanfarisf",
+      "username": "Gayathri-B-Nair",
+      "commits": 2,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "points": 6,
+      "displayname": "Gayathri-B-Nair"
+    },
+    {
+      "username": "alentsiby",
       "commits": 1,
       "prs_opened": 4,
       "prs_merged": 1,
       "points": 6,
-      "displayname": "Irfan Faris F "
-    },
-    {
-      "username": "diyakrishnah",
-      "commits": 1,
-      "prs_opened": 3,
-      "prs_merged": 1,
-      "points": 5,
-      "displayname": "DIYA KRISHNA"
-    },
-    {
-      "username": "LijoThomas2004",
-      "commits": 1,
-      "prs_opened": 3,
-      "prs_merged": 1,
-      "points": 5,
-      "displayname": "Lijo Thomas"
+      "displayname": "Alent Siby"
     }
   ]
 }
