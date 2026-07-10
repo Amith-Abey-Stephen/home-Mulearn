@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1091,
+      "commits": 1092,
       "prs_opened": 289,
       "prs_merged": 281,
-      "points": 1661,
+      "points": 1662,
       "displayname": "Awindsr"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 834,
-      "prs_opened": 177,
-      "prs_merged": 163,
-      "points": 1174,
+      "commits": 844,
+      "prs_opened": 178,
+      "prs_merged": 164,
+      "points": 1186,
       "displayname": "Alvin Dennis"
     },
     {
@@ -86,27 +86,27 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 51,
-      "prs_opened": 44,
-      "prs_merged": 43,
-      "points": 138,
+      "commits": 53,
+      "prs_opened": 46,
+      "prs_merged": 45,
+      "points": 144,
       "displayname": "Pranav P"
     },
     {
-      "username": "awindsr",
-      "commits": 26,
-      "prs_opened": 9,
+      "username": "alvin-dennis",
+      "commits": 25,
+      "prs_opened": 11,
       "prs_merged": 9,
-      "points": 44,
-      "displayname": "Awindsr"
+      "points": 45,
+      "displayname": "Alvin Dennis"
     },
     {
-      "username": "alvin-dennis",
-      "commits": 15,
-      "prs_opened": 10,
-      "prs_merged": 8,
-      "points": 33,
-      "displayname": "Alvin Dennis"
+      "username": "awindsr",
+      "commits": 27,
+      "prs_opened": 9,
+      "prs_merged": 9,
+      "points": 45,
+      "displayname": "Awindsr"
     },
     {
       "username": "febin-d",
