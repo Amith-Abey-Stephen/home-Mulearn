@@ -60,10 +60,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 847,
-      "prs_opened": 180,
-      "prs_merged": 165,
-      "points": 1192,
+      "commits": 858,
+      "prs_opened": 183,
+      "prs_merged": 169,
+      "points": 1210,
       "displayname": "Alvin Dennis"
     },
     {
@@ -94,10 +94,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 28,
-      "prs_opened": 13,
-      "prs_merged": 10,
-      "points": 51,
+      "commits": 39,
+      "prs_opened": 16,
+      "prs_merged": 14,
+      "points": 69,
       "displayname": "Alvin Dennis"
     },
     {
@@ -149,20 +149,20 @@
       "displayname": "Adhwaith A S"
     },
     {
+      "username": "bisa-theresa",
+      "commits": 0,
+      "prs_opened": 7,
+      "prs_merged": 0,
+      "points": 7,
+      "displayname": "bisa-theresa"
+    },
+    {
       "username": "adharvlalala",
       "commits": 7,
       "prs_opened": 0,
       "prs_merged": 0,
       "points": 7,
       "displayname": "Adharvlal"
-    },
-    {
-      "username": "alphonsbiju7",
-      "commits": 2,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "points": 6,
-      "displayname": "Alphons Biju"
     }
   ]
 }
