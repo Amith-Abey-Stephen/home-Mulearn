@@ -28,10 +28,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1093,
-      "prs_opened": 289,
-      "prs_merged": 281,
-      "points": 1663,
+      "commits": 1102,
+      "prs_opened": 291,
+      "prs_merged": 283,
+      "points": 1676,
       "displayname": "Awindsr"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 858,
-      "prs_opened": 183,
-      "prs_merged": 169,
-      "points": 1210,
+      "commits": 877,
+      "prs_opened": 186,
+      "prs_merged": 173,
+      "points": 1236,
       "displayname": "Alvin Dennis"
     },
     {
@@ -86,27 +86,43 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 53,
-      "prs_opened": 46,
-      "prs_merged": 45,
-      "points": 144,
+      "commits": 57,
+      "prs_opened": 48,
+      "prs_merged": 47,
+      "points": 152,
       "displayname": "Pranav P"
     },
     {
       "username": "alvin-dennis",
-      "commits": 39,
-      "prs_opened": 16,
-      "prs_merged": 14,
-      "points": 69,
+      "commits": 58,
+      "prs_opened": 19,
+      "prs_merged": 18,
+      "points": 95,
       "displayname": "Alvin Dennis"
     },
     {
       "username": "awindsr",
-      "commits": 28,
-      "prs_opened": 9,
-      "prs_merged": 9,
-      "points": 46,
+      "commits": 37,
+      "prs_opened": 11,
+      "prs_merged": 11,
+      "points": 59,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "erzer12",
+      "commits": 25,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "points": 27,
+      "displayname": "Harshil P"
+    },
+    {
+      "username": "GokulShaji2005",
+      "commits": 14,
+      "prs_opened": 8,
+      "prs_merged": 3,
+      "points": 25,
+      "displayname": "Gokul Shaji"
     },
     {
       "username": "febin-d",
@@ -115,14 +131,6 @@
       "prs_merged": 3,
       "points": 23,
       "displayname": "Febin Daniel"
-    },
-    {
-      "username": "GokulShaji2005",
-      "commits": 7,
-      "prs_opened": 8,
-      "prs_merged": 2,
-      "points": 17,
-      "displayname": "Gokul Shaji"
     },
     {
       "username": "vedhavk",
@@ -155,14 +163,6 @@
       "prs_merged": 0,
       "points": 7,
       "displayname": "bisa-theresa"
-    },
-    {
-      "username": "adharvlalala",
-      "commits": 7,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 7,
-      "displayname": "Adharvlal"
     }
   ]
 }
