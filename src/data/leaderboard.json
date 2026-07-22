@@ -19,20 +19,20 @@
       "displayname": "Adnan Kattekaden"
     },
     {
+      "username": "awindsr",
+      "commits": 1189,
+      "prs_opened": 328,
+      "prs_merged": 321,
+      "points": 1838,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "Jenin82",
       "commits": 1277,
       "prs_opened": 253,
       "prs_merged": 244,
       "points": 1774,
       "displayname": "Jenin Joseph"
-    },
-    {
-      "username": "awindsr",
-      "commits": 1152,
-      "prs_opened": 314,
-      "prs_merged": 307,
-      "points": 1773,
-      "displayname": "Awindsr"
     },
     {
       "username": "Jovit-Mathew236",
@@ -44,10 +44,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 954,
-      "prs_opened": 197,
-      "prs_merged": 184,
-      "points": 1335,
+      "commits": 958,
+      "prs_opened": 200,
+      "prs_merged": 185,
+      "points": 1343,
       "displayname": "Alvin Dennis"
     },
     {
@@ -86,27 +86,27 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 122,
-      "prs_opened": 93,
-      "prs_merged": 90,
-      "points": 305,
+      "commits": 125,
+      "prs_opened": 97,
+      "prs_merged": 93,
+      "points": 315,
       "displayname": "Pranav P"
     },
     {
-      "username": "alvin-dennis",
-      "commits": 135,
-      "prs_opened": 30,
-      "prs_merged": 29,
-      "points": 194,
-      "displayname": "Alvin Dennis"
+      "username": "awindsr",
+      "commits": 124,
+      "prs_opened": 48,
+      "prs_merged": 48,
+      "points": 220,
+      "displayname": "Awindsr"
     },
     {
-      "username": "awindsr",
-      "commits": 87,
-      "prs_opened": 34,
-      "prs_merged": 34,
-      "points": 155,
-      "displayname": "Awindsr"
+      "username": "alvin-dennis",
+      "commits": 139,
+      "prs_opened": 33,
+      "prs_merged": 30,
+      "points": 202,
+      "displayname": "Alvin Dennis"
     },
     {
       "username": "erzer12",
@@ -119,9 +119,9 @@
     {
       "username": "vedhavk",
       "commits": 20,
-      "prs_opened": 4,
+      "prs_opened": 6,
       "prs_merged": 4,
-      "points": 28,
+      "points": 30,
       "displayname": "Vedha"
     },
     {
