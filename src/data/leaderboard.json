@@ -20,10 +20,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1195,
+      "commits": 1196,
       "prs_opened": 328,
       "prs_merged": 321,
-      "points": 1844,
+      "points": 1845,
       "displayname": "Awindsr"
     },
     {
@@ -44,10 +44,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 969,
-      "prs_opened": 204,
-      "prs_merged": 191,
-      "points": 1364,
+      "commits": 974,
+      "prs_opened": 206,
+      "prs_merged": 192,
+      "points": 1372,
       "displayname": "Alvin Dennis"
     },
     {
@@ -67,53 +67,53 @@
       "displayname": "Bijo Mathew Jose"
     },
     {
+      "username": "DevWithPranav",
+      "commits": 481,
+      "prs_opened": 316,
+      "prs_merged": 309,
+      "points": 1106,
+      "displayname": "Pranav P"
+    },
+    {
       "username": "vishakh-abhayan",
       "commits": 957,
       "prs_opened": 76,
       "prs_merged": 66,
       "points": 1099,
       "displayname": "Vishakh Abhayan"
-    },
-    {
-      "username": "DevWithPranav",
-      "commits": 476,
-      "prs_opened": 311,
-      "prs_merged": 306,
-      "points": 1093,
-      "displayname": "Pranav P"
     }
   ],
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 134,
-      "prs_opened": 102,
-      "prs_merged": 99,
-      "points": 335,
+      "commits": 139,
+      "prs_opened": 107,
+      "prs_merged": 102,
+      "points": 348,
       "displayname": "Pranav P"
     },
     {
-      "username": "awindsr",
-      "commits": 130,
-      "prs_opened": 48,
-      "prs_merged": 48,
-      "points": 226,
-      "displayname": "Awindsr"
+      "username": "alvin-dennis",
+      "commits": 155,
+      "prs_opened": 39,
+      "prs_merged": 37,
+      "points": 231,
+      "displayname": "Alvin Dennis"
     },
     {
-      "username": "alvin-dennis",
-      "commits": 150,
-      "prs_opened": 37,
-      "prs_merged": 36,
-      "points": 223,
-      "displayname": "Alvin Dennis"
+      "username": "awindsr",
+      "commits": 131,
+      "prs_opened": 48,
+      "prs_merged": 48,
+      "points": 227,
+      "displayname": "Awindsr"
     },
     {
       "username": "erzer12",
       "commits": 57,
-      "prs_opened": 5,
+      "prs_opened": 6,
       "prs_merged": 4,
-      "points": 66,
+      "points": 67,
       "displayname": "Harshil P"
     },
     {
@@ -125,20 +125,20 @@
       "displayname": "Vedha"
     },
     {
+      "username": "ABHISHEK2k6",
+      "commits": 20,
+      "prs_opened": 7,
+      "prs_merged": 6,
+      "points": 33,
+      "displayname": "Abhishek P"
+    },
+    {
       "username": "GokulShaji2005",
       "commits": 16,
       "prs_opened": 9,
       "prs_merged": 4,
       "points": 29,
       "displayname": "Gokul Shaji"
-    },
-    {
-      "username": "ABHISHEK2k6",
-      "commits": 13,
-      "prs_opened": 5,
-      "prs_merged": 5,
-      "points": 23,
-      "displayname": "Abhishek P"
     },
     {
       "username": "Akshayvs-Tech",
@@ -158,10 +158,10 @@
     },
     {
       "username": "AdhwaithAS",
-      "commits": 10,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "points": 10,
+      "commits": 13,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "points": 15,
       "displayname": "Adhwaith A S"
     }
   ]
