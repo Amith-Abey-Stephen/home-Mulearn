@@ -36,10 +36,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 1040,
-      "prs_opened": 222,
-      "prs_merged": 209,
-      "points": 1471,
+      "commits": 1048,
+      "prs_opened": 224,
+      "prs_merged": 211,
+      "points": 1483,
       "displayname": "Alvin Dennis"
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "username": "DevWithPranav",
-      "commits": 514,
-      "prs_opened": 345,
-      "prs_merged": 338,
-      "points": 1197,
+      "commits": 518,
+      "prs_opened": 349,
+      "prs_merged": 342,
+      "points": 1209,
       "displayname": "Pranav P"
     },
     {
@@ -86,18 +86,18 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 172,
-      "prs_opened": 136,
-      "prs_merged": 131,
-      "points": 439,
+      "commits": 176,
+      "prs_opened": 140,
+      "prs_merged": 135,
+      "points": 451,
       "displayname": "Pranav P"
     },
     {
       "username": "alvin-dennis",
-      "commits": 221,
-      "prs_opened": 55,
-      "prs_merged": 54,
-      "points": 330,
+      "commits": 229,
+      "prs_opened": 57,
+      "prs_merged": 56,
+      "points": 342,
       "displayname": "Alvin Dennis"
     },
     {
