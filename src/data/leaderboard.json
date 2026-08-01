@@ -1,6 +1,6 @@
 {
-  "month": "2026-07",
-  "date": "July 2026",
+  "month": "2026-08",
+  "date": "August 2026",
   "overall": [
     {
       "username": "AswinAsok",
@@ -20,10 +20,10 @@
     },
     {
       "username": "awindsr",
-      "commits": 1212,
-      "prs_opened": 330,
-      "prs_merged": 323,
-      "points": 1865,
+      "commits": 1256,
+      "prs_opened": 337,
+      "prs_merged": 330,
+      "points": 1923,
       "displayname": "Awindsr"
     },
     {
@@ -36,10 +36,10 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 1048,
-      "prs_opened": 224,
-      "prs_merged": 211,
-      "points": 1483,
+      "commits": 1063,
+      "prs_opened": 226,
+      "prs_merged": 213,
+      "points": 1502,
       "displayname": "Alvin Dennis"
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "username": "DevWithPranav",
-      "commits": 518,
-      "prs_opened": 349,
-      "prs_merged": 342,
-      "points": 1209,
+      "commits": 520,
+      "prs_opened": 352,
+      "prs_merged": 346,
+      "points": 1218,
       "displayname": "Pranav P"
     },
     {
@@ -85,84 +85,84 @@
   ],
   "monthly": [
     {
-      "username": "DevWithPranav",
-      "commits": 176,
-      "prs_opened": 140,
-      "prs_merged": 135,
-      "points": 451,
-      "displayname": "Pranav P"
+      "username": "rejahrehim",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Rejah Rehim "
     },
     {
-      "username": "alvin-dennis",
-      "commits": 229,
-      "prs_opened": 57,
-      "prs_merged": 56,
-      "points": 342,
-      "displayname": "Alvin Dennis"
+      "username": "Angelrose19",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Angel Rose"
     },
     {
-      "username": "awindsr",
-      "commits": 147,
-      "prs_opened": 50,
-      "prs_merged": 50,
-      "points": 247,
-      "displayname": "Awindsr"
+      "username": "IRJ2",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Irene Rose Johnson"
     },
     {
-      "username": "erzer12",
-      "commits": 63,
-      "prs_opened": 7,
-      "prs_merged": 6,
-      "points": 76,
-      "displayname": "Harshil P"
+      "username": "vishakh-abhayan",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Vishakh Abhayan"
     },
     {
-      "username": "vedhavk",
-      "commits": 40,
-      "prs_opened": 7,
-      "prs_merged": 6,
-      "points": 53,
-      "displayname": "Vedha"
+      "username": "CLiz17",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": " Chaitanya Liz"
     },
     {
-      "username": "ABHISHEK2k6",
-      "commits": 30,
-      "prs_opened": 9,
-      "prs_merged": 8,
-      "points": 47,
-      "displayname": "Abhishek P"
+      "username": "athul-2003",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "H ATHULKRISHNAN "
     },
     {
-      "username": "GokulShaji2005",
-      "commits": 16,
-      "prs_opened": 9,
-      "prs_merged": 4,
-      "points": 29,
-      "displayname": "Gokul Shaji"
+      "username": "Alan0602",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Alan K Anil"
     },
     {
-      "username": "febin-d",
-      "commits": 18,
-      "prs_opened": 4,
-      "prs_merged": 4,
-      "points": 26,
-      "displayname": "Febin Daniel"
+      "username": "umavm",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Uma V Menon "
     },
     {
-      "username": "Akshayvs-Tech",
-      "commits": 2,
-      "prs_opened": 11,
-      "prs_merged": 10,
-      "points": 23,
-      "displayname": "Akshay v s"
+      "username": "aravinds-arv",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Aravind S"
     },
     {
-      "username": "AdhwaithAS",
-      "commits": 13,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "points": 15,
-      "displayname": "Adhwaith A S"
+      "username": "Jenin82",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "points": 0,
+      "displayname": "Jenin Joseph"
     }
   ]
 }
