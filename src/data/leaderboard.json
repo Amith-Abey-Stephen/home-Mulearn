@@ -60,10 +60,10 @@
     },
     {
       "username": "DevWithPranav",
-      "commits": 558,
-      "prs_opened": 369,
-      "prs_merged": 361,
-      "points": 1288,
+      "commits": 561,
+      "prs_opened": 371,
+      "prs_merged": 363,
+      "points": 1295,
       "displayname": "Pranav P"
     },
     {
@@ -86,18 +86,18 @@
   "monthly": [
     {
       "username": "DevWithPranav",
-      "commits": 30,
-      "prs_opened": 17,
-      "prs_merged": 15,
-      "points": 62,
+      "commits": 33,
+      "prs_opened": 19,
+      "prs_merged": 17,
+      "points": 69,
       "displayname": "Pranav P"
     },
     {
       "username": "nanda-kshr",
-      "commits": 13,
-      "prs_opened": 10,
-      "prs_merged": 10,
-      "points": 33,
+      "commits": 18,
+      "prs_opened": 15,
+      "prs_merged": 15,
+      "points": 48,
       "displayname": "Nandakishore P"
     },
     {
@@ -117,6 +117,14 @@
       "displayname": "Adhwaith A S"
     },
     {
+      "username": "febin-d",
+      "commits": 3,
+      "prs_opened": 4,
+      "prs_merged": 3,
+      "points": 10,
+      "displayname": "Febin Daniel"
+    },
+    {
       "username": "ABHISHEK2k6",
       "commits": 2,
       "prs_opened": 3,
@@ -131,14 +139,6 @@
       "prs_merged": 1,
       "points": 6,
       "displayname": "Harshil P"
-    },
-    {
-      "username": "febin-d",
-      "commits": 2,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "points": 6,
-      "displayname": "Febin Daniel"
     },
     {
       "username": "arshalaromal",
